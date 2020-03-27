@@ -2,7 +2,7 @@
 
 ## Description
 
-A web app which uses a search input and Giphy's API to display gifs on a page.
+A web app which has a custom video player and it's own stylized play/stop buttons.
 
 ## Installation
 
@@ -12,6 +12,3 @@ Via npm
 
 > gulp watch
 
-## Demo
-
-http://matheustontini.dx.am/portfolio/AppGiphy/
